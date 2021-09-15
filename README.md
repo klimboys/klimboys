@@ -1,6 +1,6 @@
 ### Hi there 👋
 - 🔭 I’m currently working on ... www.klimboys.cyou
-- 🌱 I’m currently learning ... Javascript, Python
+- 🌱 I’m currently learning ... JavaScript, TypeScript
 
 <!--
 **klimboys/klimboys** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
