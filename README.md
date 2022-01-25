@@ -1,5 +1,4 @@
 ### Hi there 👋
-- 🔭 I’m currently working on ... www.klimboys.cyou
 - 🌱 I’m currently learning ... JavaScript, TypeScript
 
 <!--
