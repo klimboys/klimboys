@@ -1,5 +1,5 @@
 ### Hi there 👋
-- 🌱 I’m currently learning ... JavaScript, TypeScript
+- 🌱 I’m currently learning ... JavaScript, TypeScript, and Go
 
 <!--
 **klimboys/klimboys** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
